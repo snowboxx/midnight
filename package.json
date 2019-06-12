@@ -1,0 +1,56 @@
+{
+  "name": "lucy",
+  "version": "0.1.5",
+  "description": "MultiUseBot",
+  "main": "Blackbatumi.js",
+  "scripts": {
+    "test": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com"
+  },
+  "keywords": [
+    "Minecraft",
+    "discordjs",
+    "Heroku"
+  ],
+  "author": "SnowyXOXO 사탄#4554",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com"
+  },
+  "homepage": "https://github.com",
+  "dependencies": {
+    "apiai": "^4.0.3",
+    "ascii-art": "^1.5.0",
+    "chalk": "^2.4.1",
+    "discord.js": "^11.4.2",
+    "fs": "0.0.1-security",
+    "google": "^2.1.0",
+    "ms": "^2.1.1",
+    "jimp": "^0.2.28",
+    "get-youtube-id": "^1.0.0",
+    "ms": "^2.1.1",
+    "canvas": "^1.6.10",
+    "hh-mm-ss": "1.2.0",
+    "dateformat": "^3.0.3",
+    "youtube-info": "^1.2.0",
+     "gif-search": "^2.0.1",
+     "moment": "^2.22.1",
+    "node-fetch": "^2.2.1",
+    "quick.hook": "^1.5.1",
+    "random-puppy": "^1.1.0",
+    "remove-markdown": "^0.3.0",
+    "request": "^2.88.0",
+    "snekfetch": "^4.0.4",
+    "string": "^3.3.3",
+    "superagent": "^4.0.0-beta.5",
+    "unirest": "^0.5.1",
+    "uws": "^99.0.0",
+    "quick.db": "^7.0.0-b21",
+    "quick.hook": "^1.5.1",
+    "ytdl-core": "^0.27.1"
+  },
+  "devDependencies": {}
+}

@@ -1,0 +1,30 @@
+
+{
+  "__NOTICE:": "This is a Hard Json File Boi so try to make i work!",
+  
+  "prefix": "*",
+
+  "white": "#ffffff",
+  "red": "#ff0000",
+  "orange": "#ffa500",
+  "yellow": "#ffff00",
+  "green": "#00ff00",
+  "blue": "#0000ff",
+  "purple": "#551a8b",
+  "cyan": "#46CED5",
+  
+  "mainguild": "524185380623351808",
+  "juiceid": "ID of the Raspberry juice emoji",
+  "ownerid": "329725768202452992",
+    
+  "blocked": [
+    "blocked",
+    "commands"
+  ],
+  
+  "blockedusers": [
+    "an array of",
+    "blocked users"
+  ]
+  
+}
